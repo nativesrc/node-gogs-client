@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+tests/config.json
+*.tgz
+npm-debug.log
